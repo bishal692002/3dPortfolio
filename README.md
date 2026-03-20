@@ -51,8 +51,8 @@ A premium, cinematic 3D portfolio website built with Next.js and Framer Motion. 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/bishal692002/Portfolio.git
-cd Portfolio
+git clone https://github.com/bishal692002/3dPortfolio.git
+cd 3dPortfolio
 ```
 
 2. Install dependencies:
